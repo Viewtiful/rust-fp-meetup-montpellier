@@ -1,5 +1,5 @@
 fn main() {
-    let z;   // lifetime 'a
+    let mut z;   // lifetime 'a
 
     {
         let y = 1;  // lifetime 'b
