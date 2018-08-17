@@ -1,0 +1,1 @@
+{"rustc":18120004051157058051,"features":"[]","target":5528142846083513683,"profile":3157847281641220004,"path":1036222786711178230,"deps":[["rand v0.5.5","rand",10268726531395347688]],"local":[{"MtimeBased":[[1534510046,38234114],".fingerprint/hello_world-8a66abd8b837b40c/dep-test-bin-hello_world-8a66abd8b837b40c"]}],"rustflags":[],"edition":"Edition2015"}
